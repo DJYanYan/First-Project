@@ -1,0 +1,87 @@
+body{
+	margin: 0;
+	background-image: url(https://morphelli.com/wp-content/uploads/2020/11/Kids-Bugs-Bunny-Wallpaper-8935-1.jpg);
+	font-family: Helvetica, Arial;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+
+header{
+	background-color: #F77E3D;
+	text-align: center;
+	margin: 0px;
+	padding-top: 30px;
+	padding-bottom: 5px;
+}
+
+h1, h2{
+	font-family: 'Acme', sans-serif;
+
+}
+
+header h1{
+	color: white;
+	font-size: 70px;
+}
+
+h2{
+	font-size: 50px;
+	color: #F77E3D;
+	margin: 50px auto;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 50px;
+}
+
+main img{
+	max-width: 100%;
+	align-items: center;
+}
+
+footer{
+	background-color: #F77E3D;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	text-align: center;
+	line-height: 20px;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	background-color: transparent;
+	opacity: .5;
+	color: red;
+}
+
+footer p{
+	margin: 0;
+}
+
+a{
+	color: #F77E3D;
+}
+
+a:hover{
+	color: white;
+	background-color: #E02838;
+}
+
+.caption{
+	margin: 0;
+	padding-bottom: 30px;
+	color: #999999;
+	font-style: italic;
+}
